@@ -1,0 +1,6 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\9\9UsingClassesandObjects\LAB04TilingDemo\bin\Debug\LAB04TilingDemo.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\9\9UsingClassesandObjects\LAB04TilingDemo\bin\Debug\LAB04TilingDemo.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\9\9UsingClassesandObjects\LAB04TilingDemo\bin\Debug\LAB04TilingDemo.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\9\9UsingClassesandObjects\LAB04TilingDemo\obj\Debug\LAB04TilingDemo.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\9\9UsingClassesandObjects\LAB04TilingDemo\obj\Debug\LAB04TilingDemo.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\9\9UsingClassesandObjects\LAB04TilingDemo\obj\Debug\LAB04TilingDemo.pdb

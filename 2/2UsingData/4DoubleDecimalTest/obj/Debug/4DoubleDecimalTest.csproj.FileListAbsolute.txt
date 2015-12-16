@@ -1,0 +1,6 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\4DoubleDecimalTest\bin\Debug\4DoubleDecimalTest.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\4DoubleDecimalTest\bin\Debug\4DoubleDecimalTest.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\4DoubleDecimalTest\bin\Debug\4DoubleDecimalTest.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\4DoubleDecimalTest\obj\Debug\4DoubleDecimalTest.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\4DoubleDecimalTest\obj\Debug\4DoubleDecimalTest.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\4DoubleDecimalTest\obj\Debug\4DoubleDecimalTest.pdb

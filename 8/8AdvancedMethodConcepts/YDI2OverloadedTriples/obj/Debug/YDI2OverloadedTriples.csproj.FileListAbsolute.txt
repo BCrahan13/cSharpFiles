@@ -1,0 +1,5 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\8\8AdvancedMethodConcepts\YDI2OverloadedTriples\bin\Debug\YDI2OverloadedTriples.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\8\8AdvancedMethodConcepts\YDI2OverloadedTriples\bin\Debug\YDI2OverloadedTriples.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\8\8AdvancedMethodConcepts\YDI2OverloadedTriples\bin\Debug\YDI2OverloadedTriples.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\8\8AdvancedMethodConcepts\YDI2OverloadedTriples\obj\Debug\YDI2OverloadedTriples.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\8\8AdvancedMethodConcepts\YDI2OverloadedTriples\obj\Debug\YDI2OverloadedTriples.pdb

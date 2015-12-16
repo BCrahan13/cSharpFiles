@@ -1,0 +1,6 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\7\RevPract1\LAB1Fun\bin\Debug\LAB1Fun.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\7\RevPract1\LAB1Fun\bin\Debug\LAB1Fun.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\7\RevPract1\LAB1Fun\bin\Debug\LAB1Fun.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\7\RevPract1\LAB1Fun\obj\Debug\LAB1Fun.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\7\RevPract1\LAB1Fun\obj\Debug\LAB1Fun.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\7\RevPract1\LAB1Fun\obj\Debug\LAB1Fun.pdb

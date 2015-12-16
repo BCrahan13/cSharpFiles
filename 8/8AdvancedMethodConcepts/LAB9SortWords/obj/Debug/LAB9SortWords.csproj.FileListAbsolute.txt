@@ -1,0 +1,6 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\8\8AdvancedMethodConcepts\LAB9SortWords\bin\Debug\LAB9SortWords.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\8\8AdvancedMethodConcepts\LAB9SortWords\bin\Debug\LAB9SortWords.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\8\8AdvancedMethodConcepts\LAB9SortWords\bin\Debug\LAB9SortWords.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\8\8AdvancedMethodConcepts\LAB9SortWords\obj\Debug\LAB9SortWords.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\8\8AdvancedMethodConcepts\LAB9SortWords\obj\Debug\LAB9SortWords.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\8\8AdvancedMethodConcepts\LAB9SortWords\obj\Debug\LAB9SortWords.pdb

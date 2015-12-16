@@ -1,0 +1,5 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\19Planets\bin\Debug\19Planets.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\19Planets\bin\Debug\19Planets.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\19Planets\bin\Debug\19Planets.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\19Planets\obj\Debug\19Planets.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\19Planets\obj\Debug\19Planets.pdb

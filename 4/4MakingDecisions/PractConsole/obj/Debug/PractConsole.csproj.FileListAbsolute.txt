@@ -1,0 +1,6 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\4\4MakingDecisions\PractConsole\bin\Debug\PractConsole.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\4\4MakingDecisions\PractConsole\bin\Debug\PractConsole.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\4\4MakingDecisions\PractConsole\bin\Debug\PractConsole.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\4\4MakingDecisions\PractConsole\obj\Debug\PractConsole.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\4\4MakingDecisions\PractConsole\obj\Debug\PractConsole.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\4\4MakingDecisions\PractConsole\obj\Debug\PractConsole.pdb

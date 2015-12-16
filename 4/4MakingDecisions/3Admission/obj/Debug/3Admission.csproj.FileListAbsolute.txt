@@ -1,0 +1,9 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\4\4MakingDecisions\3Admission\bin\Debug\3Admission.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\4\4MakingDecisions\3Admission\bin\Debug\3Admission.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\4\4MakingDecisions\3Admission\bin\Debug\3Admission.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\4\4MakingDecisions\3Admission\obj\Debug\3Admission.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\4\4MakingDecisions\3Admission\obj\Debug\_3Admission.AdmissionForm.resources
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\4\4MakingDecisions\3Admission\obj\Debug\_3Admission.Properties.Resources.resources
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\4\4MakingDecisions\3Admission\obj\Debug\3Admission.csproj.GenerateResource.Cache
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\4\4MakingDecisions\3Admission\obj\Debug\3Admission.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\4\4MakingDecisions\3Admission\obj\Debug\3Admission.pdb

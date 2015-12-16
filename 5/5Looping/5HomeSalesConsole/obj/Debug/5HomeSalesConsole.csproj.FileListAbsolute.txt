@@ -1,0 +1,6 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\5\5Looping\5HomeSalesConsole\bin\Debug\5HomeSalesConsole.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\5\5Looping\5HomeSalesConsole\bin\Debug\5HomeSalesConsole.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\5\5Looping\5HomeSalesConsole\bin\Debug\5HomeSalesConsole.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\5\5Looping\5HomeSalesConsole\obj\Debug\5HomeSalesConsole.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\5\5Looping\5HomeSalesConsole\obj\Debug\5HomeSalesConsole.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\5\5Looping\5HomeSalesConsole\obj\Debug\5HomeSalesConsole.pdb

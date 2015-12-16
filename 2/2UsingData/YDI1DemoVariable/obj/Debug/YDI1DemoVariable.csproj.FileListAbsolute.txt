@@ -1,0 +1,6 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\YDI1DemoVariable\bin\Debug\YDI1DemoVariable.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\YDI1DemoVariable\bin\Debug\YDI1DemoVariable.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\YDI1DemoVariable\bin\Debug\YDI1DemoVariable.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\YDI1DemoVariable\obj\Debug\YDI1DemoVariable.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\YDI1DemoVariable\obj\Debug\YDI1DemoVariable.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\YDI1DemoVariable\obj\Debug\YDI1DemoVariable.pdb

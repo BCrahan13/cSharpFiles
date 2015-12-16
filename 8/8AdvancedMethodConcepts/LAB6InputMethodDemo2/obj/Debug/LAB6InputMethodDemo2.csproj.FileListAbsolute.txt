@@ -1,0 +1,6 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\8\8AdvancedMethodConcepts\LAB6InputMethodDemo2\bin\Debug\LAB6InputMethodDemo2.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\8\8AdvancedMethodConcepts\LAB6InputMethodDemo2\bin\Debug\LAB6InputMethodDemo2.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\8\8AdvancedMethodConcepts\LAB6InputMethodDemo2\bin\Debug\LAB6InputMethodDemo2.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\8\8AdvancedMethodConcepts\LAB6InputMethodDemo2\obj\Debug\LAB6InputMethodDemo2.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\8\8AdvancedMethodConcepts\LAB6InputMethodDemo2\obj\Debug\LAB6InputMethodDemo2.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\8\8AdvancedMethodConcepts\LAB6InputMethodDemo2\obj\Debug\LAB6InputMethodDemo2.csprojResolveAssemblyReference.cache

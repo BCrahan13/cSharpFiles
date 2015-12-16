@@ -1,0 +1,5 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\8ProjectedRaisesInteractive\bin\Debug\8ProjectedRaisesInteractive.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\8ProjectedRaisesInteractive\bin\Debug\8ProjectedRaisesInteractive.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\8ProjectedRaisesInteractive\bin\Debug\8ProjectedRaisesInteractive.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\8ProjectedRaisesInteractive\obj\Debug\8ProjectedRaisesInteractive.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\8ProjectedRaisesInteractive\obj\Debug\8ProjectedRaisesInteractive.pdb

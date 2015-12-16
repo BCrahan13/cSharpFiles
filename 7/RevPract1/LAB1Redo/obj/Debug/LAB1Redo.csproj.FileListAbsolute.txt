@@ -1,0 +1,6 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\7\RevPract1\LAB1Redo\bin\Debug\LAB1Redo.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\7\RevPract1\LAB1Redo\bin\Debug\LAB1Redo.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\7\RevPract1\LAB1Redo\bin\Debug\LAB1Redo.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\7\RevPract1\LAB1Redo\obj\Debug\LAB1Redo.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\7\RevPract1\LAB1Redo\obj\Debug\LAB1Redo.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\7\RevPract1\LAB1Redo\obj\Debug\LAB1Redo.pdb

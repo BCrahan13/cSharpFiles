@@ -1,0 +1,6 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\9\9UsingClassesandObjects\YDI1Student\bin\Debug\YDI1Student.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\9\9UsingClassesandObjects\YDI1Student\bin\Debug\YDI1Student.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\9\9UsingClassesandObjects\YDI1Student\bin\Debug\YDI1Student.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\9\9UsingClassesandObjects\YDI1Student\obj\Debug\YDI1Student.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\9\9UsingClassesandObjects\YDI1Student\obj\Debug\YDI1Student.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\9\9UsingClassesandObjects\YDI1Student\obj\Debug\YDI1Student.pdb

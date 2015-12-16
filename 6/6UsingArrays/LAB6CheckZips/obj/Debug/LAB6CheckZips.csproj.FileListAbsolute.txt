@@ -1,0 +1,6 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\6\6UsingArrays\LAB6CheckZips\bin\Debug\LAB6CheckZips.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\6\6UsingArrays\LAB6CheckZips\bin\Debug\LAB6CheckZips.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\6\6UsingArrays\LAB6CheckZips\bin\Debug\LAB6CheckZips.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\6\6UsingArrays\LAB6CheckZips\obj\Debug\LAB6CheckZips.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\6\6UsingArrays\LAB6CheckZips\obj\Debug\LAB6CheckZips.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\6\6UsingArrays\LAB6CheckZips\obj\Debug\LAB6CheckZips.pdb

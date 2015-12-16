@@ -1,0 +1,6 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\5\5Looping\10Perfect\bin\Debug\10Perfect.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\5\5Looping\10Perfect\bin\Debug\10Perfect.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\5\5Looping\10Perfect\bin\Debug\10Perfect.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\5\5Looping\10Perfect\obj\Debug\10Perfect.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\5\5Looping\10Perfect\obj\Debug\10Perfect.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\5\5Looping\10Perfect\obj\Debug\10Perfect.pdb

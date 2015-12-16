@@ -1,0 +1,6 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\6\6UsingArrays\LAB5DeliveryCharges\bin\Debug\LAB5DeliveryCharges.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\6\6UsingArrays\LAB5DeliveryCharges\bin\Debug\LAB5DeliveryCharges.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\6\6UsingArrays\LAB5DeliveryCharges\bin\Debug\LAB5DeliveryCharges.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\6\6UsingArrays\LAB5DeliveryCharges\obj\Debug\LAB5DeliveryCharges.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\6\6UsingArrays\LAB5DeliveryCharges\obj\Debug\LAB5DeliveryCharges.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\6\6UsingArrays\LAB5DeliveryCharges\obj\Debug\LAB5DeliveryCharges.csprojResolveAssemblyReference.cache

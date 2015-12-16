@@ -1,0 +1,5 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\14\14FilesAndStreams\YDI01ReadNameFile\bin\Debug\YDI01ReadNameFile.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\14\14FilesAndStreams\YDI01ReadNameFile\bin\Debug\YDI01ReadNameFile.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\14\14FilesAndStreams\YDI01ReadNameFile\bin\Debug\YDI01ReadNameFile.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\14\14FilesAndStreams\YDI01ReadNameFile\obj\Debug\YDI01ReadNameFile.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\14\14FilesAndStreams\YDI01ReadNameFile\obj\Debug\YDI01ReadNameFile.pdb

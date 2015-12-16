@@ -1,0 +1,6 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\7\RevPract1\LAB7Admission\bin\Debug\LAB7Admission.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\7\RevPract1\LAB7Admission\obj\Debug\LAB7Admission.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\7\RevPract1\LAB7Admission\bin\Debug\LAB7Admission.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\7\RevPract1\LAB7Admission\bin\Debug\LAB7Admission.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\7\RevPract1\LAB7Admission\obj\Debug\LAB7Admission.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\7\RevPract1\LAB7Admission\obj\Debug\LAB7Admission.pdb

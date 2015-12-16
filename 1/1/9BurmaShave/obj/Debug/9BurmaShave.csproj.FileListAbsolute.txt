@@ -1,0 +1,5 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\1\1\9BurmaShave\bin\Debug\9BurmaShave.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\1\1\9BurmaShave\bin\Debug\9BurmaShave.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\1\1\9BurmaShave\bin\Debug\9BurmaShave.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\1\1\9BurmaShave\obj\Debug\9BurmaShave.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\1\1\9BurmaShave\obj\Debug\9BurmaShave.pdb

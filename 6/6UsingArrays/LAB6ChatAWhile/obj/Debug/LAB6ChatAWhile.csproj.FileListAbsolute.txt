@@ -1,0 +1,6 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\6\6UsingArrays\LAB6ChatAWhile\bin\Debug\LAB6ChatAWhile.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\6\6UsingArrays\LAB6ChatAWhile\bin\Debug\LAB6ChatAWhile.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\6\6UsingArrays\LAB6ChatAWhile\bin\Debug\LAB6ChatAWhile.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\6\6UsingArrays\LAB6ChatAWhile\obj\Debug\LAB6ChatAWhile.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\6\6UsingArrays\LAB6ChatAWhile\obj\Debug\LAB6ChatAWhile.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\6\6UsingArrays\LAB6ChatAWhile\obj\Debug\LAB6ChatAWhile.pdb

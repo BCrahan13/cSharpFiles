@@ -1,0 +1,6 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\11\11ExceptionHandling\LAB03FindSquareRoot\bin\Debug\LAB03FindSquareRoot.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\11\11ExceptionHandling\LAB03FindSquareRoot\bin\Debug\LAB03FindSquareRoot.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\11\11ExceptionHandling\LAB03FindSquareRoot\bin\Debug\LAB03FindSquareRoot.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\11\11ExceptionHandling\LAB03FindSquareRoot\obj\Debug\LAB03FindSquareRoot.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\11\11ExceptionHandling\LAB03FindSquareRoot\obj\Debug\LAB03FindSquareRoot.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\11\11ExceptionHandling\LAB03FindSquareRoot\obj\Debug\LAB03FindSquareRoot.pdb

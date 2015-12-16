@@ -1,0 +1,6 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\11Eggs\bin\Debug\11Eggs.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\11Eggs\bin\Debug\11Eggs.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\11Eggs\bin\Debug\11Eggs.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\11Eggs\obj\Debug\11Eggs.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\11Eggs\obj\Debug\11Eggs.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\11Eggs\obj\Debug\11Eggs.pdb

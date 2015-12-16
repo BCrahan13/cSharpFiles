@@ -1,0 +1,5 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\YDI4DemoEscapeSequences\bin\Debug\YDI4DemoEscapeSequences.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\YDI4DemoEscapeSequences\bin\Debug\YDI4DemoEscapeSequences.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\YDI4DemoEscapeSequences\bin\Debug\YDI4DemoEscapeSequences.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\YDI4DemoEscapeSequences\obj\Debug\YDI4DemoEscapeSequences.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\YDI4DemoEscapeSequences\obj\Debug\YDI4DemoEscapeSequences.pdb

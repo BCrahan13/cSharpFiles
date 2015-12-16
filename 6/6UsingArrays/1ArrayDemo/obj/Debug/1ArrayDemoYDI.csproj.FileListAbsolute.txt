@@ -1,0 +1,3 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\6\6UsingArrays\1ArrayDemo\bin\Debug\1ArrayDemo.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\6\6UsingArrays\1ArrayDemo\obj\Debug\1ArrayDemo.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\6\6UsingArrays\1ArrayDemo\obj\Debug\1ArrayDemo.pdb

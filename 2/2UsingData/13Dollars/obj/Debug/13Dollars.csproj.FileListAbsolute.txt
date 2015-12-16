@@ -1,0 +1,5 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\13Dollars\bin\Debug\13Dollars.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\13Dollars\bin\Debug\13Dollars.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\13Dollars\bin\Debug\13Dollars.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\13Dollars\obj\Debug\13Dollars.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\13Dollars\obj\Debug\13Dollars.pdb

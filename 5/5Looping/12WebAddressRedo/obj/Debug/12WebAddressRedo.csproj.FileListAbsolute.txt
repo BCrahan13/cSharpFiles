@@ -1,0 +1,6 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\5\5Looping\12WebAddressRedo\bin\Debug\12WebAddressRedo.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\5\5Looping\12WebAddressRedo\bin\Debug\12WebAddressRedo.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\5\5Looping\12WebAddressRedo\bin\Debug\12WebAddressRedo.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\5\5Looping\12WebAddressRedo\obj\Debug\12WebAddressRedo.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\5\5Looping\12WebAddressRedo\obj\Debug\12WebAddressRedo.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\5\5Looping\12WebAddressRedo\obj\Debug\12WebAddressRedo.pdb

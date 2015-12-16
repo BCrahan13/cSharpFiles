@@ -1,0 +1,6 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\14\14FilesAndStreams\YDI01CreateNameFile\bin\Debug\YDI01CreateNameFile.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\14\14FilesAndStreams\YDI01CreateNameFile\bin\Debug\YDI01CreateNameFile.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\14\14FilesAndStreams\YDI01CreateNameFile\bin\Debug\YDI01CreateNameFile.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\14\14FilesAndStreams\YDI01CreateNameFile\obj\Debug\YDI01CreateNameFile.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\14\14FilesAndStreams\YDI01CreateNameFile\obj\Debug\YDI01CreateNameFile.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\14\14FilesAndStreams\YDI01CreateNameFile\obj\Debug\YDI01CreateNameFile.pdb

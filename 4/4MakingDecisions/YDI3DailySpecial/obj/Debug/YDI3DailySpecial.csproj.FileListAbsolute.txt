@@ -1,0 +1,8 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\4\4MakingDecisions\YDI3DailySpecial\bin\Debug\YDI3DailySpecial.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\4\4MakingDecisions\YDI3DailySpecial\bin\Debug\YDI3DailySpecial.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\4\4MakingDecisions\YDI3DailySpecial\bin\Debug\YDI3DailySpecial.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\4\4MakingDecisions\YDI3DailySpecial\obj\Debug\YDI3DailySpecial.DailySpecialForm.resources
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\4\4MakingDecisions\YDI3DailySpecial\obj\Debug\YDI3DailySpecial.Properties.Resources.resources
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\4\4MakingDecisions\YDI3DailySpecial\obj\Debug\YDI3DailySpecial.csproj.GenerateResource.Cache
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\4\4MakingDecisions\YDI3DailySpecial\obj\Debug\YDI3DailySpecial.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\4\4MakingDecisions\YDI3DailySpecial\obj\Debug\YDI3DailySpecial.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\11\11ExceptionHandling\Practice\bin\Debug\Practice.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\11\11ExceptionHandling\Practice\bin\Debug\Practice.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\11\11ExceptionHandling\Practice\bin\Debug\Practice.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\11\11ExceptionHandling\Practice\obj\Debug\Practice.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\11\11ExceptionHandling\Practice\obj\Debug\Practice.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\11\11ExceptionHandling\Practice\obj\Debug\Practice.pdb

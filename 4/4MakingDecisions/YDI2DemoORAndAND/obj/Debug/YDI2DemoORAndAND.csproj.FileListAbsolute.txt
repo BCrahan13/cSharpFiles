@@ -1,0 +1,6 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\4\4MakingDecisions\YDI2DemoORAndAND\bin\Debug\YDI2DemoORAndAND.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\4\4MakingDecisions\YDI2DemoORAndAND\bin\Debug\YDI2DemoORAndAND.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\4\4MakingDecisions\YDI2DemoORAndAND\bin\Debug\YDI2DemoORAndAND.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\4\4MakingDecisions\YDI2DemoORAndAND\obj\Debug\YDI2DemoORAndAND.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\4\4MakingDecisions\YDI2DemoORAndAND\obj\Debug\YDI2DemoORAndAND.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\4\4MakingDecisions\YDI2DemoORAndAND\obj\Debug\YDI2DemoORAndAND.pdb

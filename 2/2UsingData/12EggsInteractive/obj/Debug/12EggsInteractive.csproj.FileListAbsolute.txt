@@ -1,0 +1,6 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\12EggsInteractive\bin\Debug\12EggsInteractive.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\12EggsInteractive\bin\Debug\12EggsInteractive.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\12EggsInteractive\bin\Debug\12EggsInteractive.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\12EggsInteractive\obj\Debug\12EggsInteractive.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\12EggsInteractive\obj\Debug\12EggsInteractive.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\12EggsInteractive\obj\Debug\12EggsInteractive.csprojResolveAssemblyReference.cache

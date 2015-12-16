@@ -1,0 +1,6 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\8\8AdvancedMethodConcepts\YDI1SwapProgram\bin\Debug\YDI1SwapProgram.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\8\8AdvancedMethodConcepts\YDI1SwapProgram\bin\Debug\YDI1SwapProgram.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\8\8AdvancedMethodConcepts\YDI1SwapProgram\bin\Debug\YDI1SwapProgram.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\8\8AdvancedMethodConcepts\YDI1SwapProgram\obj\Debug\YDI1SwapProgram.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\8\8AdvancedMethodConcepts\YDI1SwapProgram\obj\Debug\YDI1SwapProgram.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\8\8AdvancedMethodConcepts\YDI1SwapProgram\obj\Debug\YDI1SwapProgram.pdb

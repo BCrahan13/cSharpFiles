@@ -1,0 +1,6 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\11\11ExceptionHandling\ch6LABGuessAWord\bin\Debug\ch6LABGuessAWord.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\11\11ExceptionHandling\ch6LABGuessAWord\bin\Debug\ch6LABGuessAWord.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\11\11ExceptionHandling\ch6LABGuessAWord\bin\Debug\ch6LABGuessAWord.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\11\11ExceptionHandling\ch6LABGuessAWord\obj\Debug\ch6LABGuessAWord.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\11\11ExceptionHandling\ch6LABGuessAWord\obj\Debug\ch6LABGuessAWord.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\11\11ExceptionHandling\ch6LABGuessAWord\obj\Debug\ch6LABGuessAWord.pdb

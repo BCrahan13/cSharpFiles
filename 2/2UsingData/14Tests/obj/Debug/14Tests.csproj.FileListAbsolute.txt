@@ -1,0 +1,6 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\14Tests\bin\Debug\14Tests.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\14Tests\bin\Debug\14Tests.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\14Tests\bin\Debug\14Tests.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\14Tests\obj\Debug\14Tests.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\14Tests\obj\Debug\14Tests.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\14Tests\obj\Debug\14Tests.pdb

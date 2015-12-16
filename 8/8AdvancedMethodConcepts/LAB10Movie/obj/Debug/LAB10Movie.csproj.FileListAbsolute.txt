@@ -1,0 +1,6 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\8\8AdvancedMethodConcepts\LAB10Movie\bin\Debug\LAB10Movie.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\8\8AdvancedMethodConcepts\LAB10Movie\bin\Debug\LAB10Movie.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\8\8AdvancedMethodConcepts\LAB10Movie\bin\Debug\LAB10Movie.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\8\8AdvancedMethodConcepts\LAB10Movie\obj\Debug\LAB10Movie.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\8\8AdvancedMethodConcepts\LAB10Movie\obj\Debug\LAB10Movie.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\8\8AdvancedMethodConcepts\LAB10Movie\obj\Debug\LAB10Movie.pdb

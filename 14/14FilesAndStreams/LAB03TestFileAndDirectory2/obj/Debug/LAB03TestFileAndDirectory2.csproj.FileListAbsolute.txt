@@ -1,0 +1,9 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\14\14FilesAndStreams\LAB03TestFileAndDirectory2\bin\Debug\LAB03TestFileAndDirectory2.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\14\14FilesAndStreams\LAB03TestFileAndDirectory2\bin\Debug\LAB03TestFileAndDirectory2.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\14\14FilesAndStreams\LAB03TestFileAndDirectory2\bin\Debug\LAB03TestFileAndDirectory2.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\14\14FilesAndStreams\LAB03TestFileAndDirectory2\obj\Debug\LAB03TestFileAndDirectory2.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\14\14FilesAndStreams\LAB03TestFileAndDirectory2\obj\Debug\LAB03TestFileAndDirectory2.Properties.Resources.resources
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\14\14FilesAndStreams\LAB03TestFileAndDirectory2\obj\Debug\LAB03TestFileAndDirectory2.TestFileAndDirectory2Form.resources
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\14\14FilesAndStreams\LAB03TestFileAndDirectory2\obj\Debug\LAB03TestFileAndDirectory2.csproj.GenerateResource.Cache
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\14\14FilesAndStreams\LAB03TestFileAndDirectory2\obj\Debug\LAB03TestFileAndDirectory2.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\14\14FilesAndStreams\LAB03TestFileAndDirectory2\obj\Debug\LAB03TestFileAndDirectory2.pdb

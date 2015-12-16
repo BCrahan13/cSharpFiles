@@ -1,0 +1,6 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\11\11ExceptionHandling\LAB01SubscriptExceptionTest\bin\Debug\LAB01SubscriptExceptionTest.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\11\11ExceptionHandling\LAB01SubscriptExceptionTest\bin\Debug\LAB01SubscriptExceptionTest.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\11\11ExceptionHandling\LAB01SubscriptExceptionTest\bin\Debug\LAB01SubscriptExceptionTest.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\11\11ExceptionHandling\LAB01SubscriptExceptionTest\obj\Debug\LAB01SubscriptExceptionTest.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\11\11ExceptionHandling\LAB01SubscriptExceptionTest\obj\Debug\LAB01SubscriptExceptionTest.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\11\11ExceptionHandling\LAB01SubscriptExceptionTest\obj\Debug\LAB01SubscriptExceptionTest.pdb

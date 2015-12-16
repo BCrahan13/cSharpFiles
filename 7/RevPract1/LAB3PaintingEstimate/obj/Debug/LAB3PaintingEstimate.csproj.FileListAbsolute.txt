@@ -1,0 +1,6 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\7\RevPract1\LAB3PaintingEstimate\bin\Debug\LAB3PaintingEstimate.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\7\RevPract1\LAB3PaintingEstimate\bin\Debug\LAB3PaintingEstimate.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\7\RevPract1\LAB3PaintingEstimate\bin\Debug\LAB3PaintingEstimate.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\7\RevPract1\LAB3PaintingEstimate\obj\Debug\LAB3PaintingEstimate.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\7\RevPract1\LAB3PaintingEstimate\obj\Debug\LAB3PaintingEstimate.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\7\RevPract1\LAB3PaintingEstimate\obj\Debug\LAB3PaintingEstimate.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\5\5Looping\4TestScoresConsole\bin\Debug\4TestScoresConsole.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\5\5Looping\4TestScoresConsole\bin\Debug\4TestScoresConsole.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\5\5Looping\4TestScoresConsole\bin\Debug\4TestScoresConsole.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\5\5Looping\4TestScoresConsole\obj\Debug\4TestScoresConsole.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\5\5Looping\4TestScoresConsole\obj\Debug\4TestScoresConsole.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\5\5Looping\4TestScoresConsole\obj\Debug\4TestScoresConsole.pdb

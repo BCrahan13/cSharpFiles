@@ -1,0 +1,5 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\5\5Looping\13CountVowels\bin\Debug\13CountVowels.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\5\5Looping\13CountVowels\bin\Debug\13CountVowels.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\5\5Looping\13CountVowels\bin\Debug\13CountVowels.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\5\5Looping\13CountVowels\obj\Debug\13CountVowels.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\5\5Looping\13CountVowels\obj\Debug\13CountVowels.pdb

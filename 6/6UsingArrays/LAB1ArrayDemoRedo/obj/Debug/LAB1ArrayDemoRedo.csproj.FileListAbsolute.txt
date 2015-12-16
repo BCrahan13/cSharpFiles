@@ -1,0 +1,6 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\6\6UsingArrays\LAB1ArrayDemoRedo\bin\Debug\LAB1ArrayDemoRedo.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\6\6UsingArrays\LAB1ArrayDemoRedo\bin\Debug\LAB1ArrayDemoRedo.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\6\6UsingArrays\LAB1ArrayDemoRedo\bin\Debug\LAB1ArrayDemoRedo.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\6\6UsingArrays\LAB1ArrayDemoRedo\obj\Debug\LAB1ArrayDemoRedo.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\6\6UsingArrays\LAB1ArrayDemoRedo\obj\Debug\LAB1ArrayDemoRedo.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\6\6UsingArrays\LAB1ArrayDemoRedo\obj\Debug\LAB1ArrayDemoRedo.pdb

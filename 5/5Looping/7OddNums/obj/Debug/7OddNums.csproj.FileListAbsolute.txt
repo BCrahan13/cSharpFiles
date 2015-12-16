@@ -1,0 +1,5 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\5\5Looping\7OddNums\bin\Debug\7OddNums.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\5\5Looping\7OddNums\bin\Debug\7OddNums.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\5\5Looping\7OddNums\bin\Debug\7OddNums.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\5\5Looping\7OddNums\obj\Debug\7OddNums.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\5\5Looping\7OddNums\obj\Debug\7OddNums.pdb

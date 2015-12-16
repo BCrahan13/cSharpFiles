@@ -1,0 +1,6 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\9\9UsingClassesandObjects\LAB03SalesTransactionDemo\bin\Debug\LAB03SalesTransactionDemo.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\9\9UsingClassesandObjects\LAB03SalesTransactionDemo\bin\Debug\LAB03SalesTransactionDemo.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\9\9UsingClassesandObjects\LAB03SalesTransactionDemo\bin\Debug\LAB03SalesTransactionDemo.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\9\9UsingClassesandObjects\LAB03SalesTransactionDemo\obj\Debug\LAB03SalesTransactionDemo.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\9\9UsingClassesandObjects\LAB03SalesTransactionDemo\obj\Debug\LAB03SalesTransactionDemo.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\9\9UsingClassesandObjects\LAB03SalesTransactionDemo\obj\Debug\LAB03SalesTransactionDemo.pdb

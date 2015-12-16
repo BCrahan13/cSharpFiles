@@ -1,0 +1,8 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\4\4MakingDecisions\8RPS\bin\Debug\8RPS.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\4\4MakingDecisions\8RPS\obj\Debug\_8RPS.Properties.Resources.resources
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\4\4MakingDecisions\8RPS\obj\Debug\_8RPS.RPSForm.resources
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\4\4MakingDecisions\8RPS\obj\Debug\8RPS.csproj.GenerateResource.Cache
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\4\4MakingDecisions\8RPS\bin\Debug\8RPS.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\4\4MakingDecisions\8RPS\bin\Debug\8RPS.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\4\4MakingDecisions\8RPS\obj\Debug\8RPS.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\4\4MakingDecisions\8RPS\obj\Debug\8RPS.pdb

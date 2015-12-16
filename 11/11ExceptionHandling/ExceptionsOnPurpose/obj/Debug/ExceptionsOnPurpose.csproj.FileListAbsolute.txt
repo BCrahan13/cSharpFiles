@@ -1,0 +1,6 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\11\11ExceptionHandling\ExceptionsOnPurpose\bin\Debug\ExceptionsOnPurpose.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\11\11ExceptionHandling\ExceptionsOnPurpose\bin\Debug\ExceptionsOnPurpose.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\11\11ExceptionHandling\ExceptionsOnPurpose\bin\Debug\ExceptionsOnPurpose.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\11\11ExceptionHandling\ExceptionsOnPurpose\obj\Debug\ExceptionsOnPurpose.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\11\11ExceptionHandling\ExceptionsOnPurpose\obj\Debug\ExceptionsOnPurpose.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\11\11ExceptionHandling\ExceptionsOnPurpose\obj\Debug\ExceptionsOnPurpose.pdb

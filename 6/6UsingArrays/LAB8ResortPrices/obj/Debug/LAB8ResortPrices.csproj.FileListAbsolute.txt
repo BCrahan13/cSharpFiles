@@ -1,0 +1,6 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\6\6UsingArrays\LAB8ResortPrices\bin\Debug\LAB8ResortPrices.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\6\6UsingArrays\LAB8ResortPrices\bin\Debug\LAB8ResortPrices.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\6\6UsingArrays\LAB8ResortPrices\bin\Debug\LAB8ResortPrices.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\6\6UsingArrays\LAB8ResortPrices\obj\Debug\LAB8ResortPrices.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\6\6UsingArrays\LAB8ResortPrices\obj\Debug\LAB8ResortPrices.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\6\6UsingArrays\LAB8ResortPrices\obj\Debug\LAB8ResortPrices.pdb

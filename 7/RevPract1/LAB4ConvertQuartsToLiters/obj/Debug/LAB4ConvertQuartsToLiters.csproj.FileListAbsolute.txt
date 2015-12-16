@@ -1,0 +1,6 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\7\RevPract1\LAB4ConvertQuartsToLiters\bin\Debug\LAB4ConvertQuartsToLiters.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\7\RevPract1\LAB4ConvertQuartsToLiters\bin\Debug\LAB4ConvertQuartsToLiters.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\7\RevPract1\LAB4ConvertQuartsToLiters\bin\Debug\LAB4ConvertQuartsToLiters.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\7\RevPract1\LAB4ConvertQuartsToLiters\obj\Debug\LAB4ConvertQuartsToLiters.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\7\RevPract1\LAB4ConvertQuartsToLiters\obj\Debug\LAB4ConvertQuartsToLiters.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\7\RevPract1\LAB4ConvertQuartsToLiters\obj\Debug\LAB4ConvertQuartsToLiters.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\7\RevPract1\LAB8CountVowels\bin\Debug\LAB8CountVowels.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\7\RevPract1\LAB8CountVowels\bin\Debug\LAB8CountVowels.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\7\RevPract1\LAB8CountVowels\bin\Debug\LAB8CountVowels.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\7\RevPract1\LAB8CountVowels\obj\Debug\LAB8CountVowels.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\7\RevPract1\LAB8CountVowels\obj\Debug\LAB8CountVowels.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\7\RevPract1\LAB8CountVowels\obj\Debug\LAB8CountVowels.pdb

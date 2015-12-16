@@ -1,0 +1,9 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\3\3UsingGUIObjects\6PayrollGUI\bin\Debug\6PayrollGUI.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\3\3UsingGUIObjects\6PayrollGUI\bin\Debug\6PayrollGUI.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\3\3UsingGUIObjects\6PayrollGUI\bin\Debug\6PayrollGUI.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\3\3UsingGUIObjects\6PayrollGUI\obj\Debug\6PayrollGUI.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\3\3UsingGUIObjects\6PayrollGUI\obj\Debug\_6PayrollGUI.PayrollForm.resources
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\3\3UsingGUIObjects\6PayrollGUI\obj\Debug\_6PayrollGUI.Properties.Resources.resources
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\3\3UsingGUIObjects\6PayrollGUI\obj\Debug\6PayrollGUI.csproj.GenerateResource.Cache
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\3\3UsingGUIObjects\6PayrollGUI\obj\Debug\6PayrollGUI.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\3\3UsingGUIObjects\6PayrollGUI\obj\Debug\6PayrollGUI.pdb

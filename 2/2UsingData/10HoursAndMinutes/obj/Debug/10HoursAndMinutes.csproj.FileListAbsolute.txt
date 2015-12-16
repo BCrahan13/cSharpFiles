@@ -1,0 +1,6 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\10HoursAndMinutes\bin\Debug\10HoursAndMinutes.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\10HoursAndMinutes\bin\Debug\10HoursAndMinutes.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\10HoursAndMinutes\bin\Debug\10HoursAndMinutes.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\10HoursAndMinutes\obj\Debug\10HoursAndMinutes.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\10HoursAndMinutes\obj\Debug\10HoursAndMinutes.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\10HoursAndMinutes\obj\Debug\10HoursAndMinutes.csprojResolveAssemblyReference.cache

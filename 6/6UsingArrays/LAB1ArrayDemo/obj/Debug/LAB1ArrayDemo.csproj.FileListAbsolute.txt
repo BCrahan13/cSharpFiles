@@ -1,0 +1,5 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\6\6UsingArrays\LAB1ArrayDemo\bin\Debug\LAB1ArrayDemo.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\6\6UsingArrays\LAB1ArrayDemo\bin\Debug\LAB1ArrayDemo.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\6\6UsingArrays\LAB1ArrayDemo\bin\Debug\LAB1ArrayDemo.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\6\6UsingArrays\LAB1ArrayDemo\obj\Debug\LAB1ArrayDemo.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\6\6UsingArrays\LAB1ArrayDemo\obj\Debug\LAB1ArrayDemo.pdb

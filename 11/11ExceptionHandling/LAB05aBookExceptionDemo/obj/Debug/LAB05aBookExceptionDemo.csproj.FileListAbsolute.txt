@@ -1,0 +1,6 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\11\11ExceptionHandling\LAB05aBookExceptionDemo\bin\Debug\LAB05aBookExceptionDemo.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\11\11ExceptionHandling\LAB05aBookExceptionDemo\obj\Debug\LAB05aBookExceptionDemo.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\11\11ExceptionHandling\LAB05aBookExceptionDemo\bin\Debug\LAB05aBookExceptionDemo.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\11\11ExceptionHandling\LAB05aBookExceptionDemo\bin\Debug\LAB05aBookExceptionDemo.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\11\11ExceptionHandling\LAB05aBookExceptionDemo\obj\Debug\LAB05aBookExceptionDemo.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\11\11ExceptionHandling\LAB05aBookExceptionDemo\obj\Debug\LAB05aBookExceptionDemo.pdb

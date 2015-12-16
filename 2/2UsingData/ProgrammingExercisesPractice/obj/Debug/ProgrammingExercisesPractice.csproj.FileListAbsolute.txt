@@ -1,0 +1,6 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\ProgrammingExercisesPractice\bin\Debug\ProgrammingExercisesPractice.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\ProgrammingExercisesPractice\bin\Debug\ProgrammingExercisesPractice.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\ProgrammingExercisesPractice\bin\Debug\ProgrammingExercisesPractice.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\ProgrammingExercisesPractice\obj\Debug\ProgrammingExercisesPractice.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\ProgrammingExercisesPractice\obj\Debug\ProgrammingExercisesPractice.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\ProgrammingExercisesPractice\obj\Debug\ProgrammingExercisesPractice.pdb

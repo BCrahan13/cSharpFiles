@@ -1,0 +1,6 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\10\10IntroductionToInheritance\YouTubeEmployee\bin\Debug\YouTubeEmployee.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\10\10IntroductionToInheritance\YouTubeEmployee\bin\Debug\YouTubeEmployee.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\10\10IntroductionToInheritance\YouTubeEmployee\bin\Debug\YouTubeEmployee.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\10\10IntroductionToInheritance\YouTubeEmployee\obj\Debug\YouTubeEmployee.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\10\10IntroductionToInheritance\YouTubeEmployee\obj\Debug\YouTubeEmployee.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\10\10IntroductionToInheritance\YouTubeEmployee\obj\Debug\YouTubeEmployee.pdb

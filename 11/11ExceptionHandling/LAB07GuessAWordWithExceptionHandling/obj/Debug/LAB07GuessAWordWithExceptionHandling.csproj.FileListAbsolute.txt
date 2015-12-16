@@ -1,0 +1,6 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\11\11ExceptionHandling\LAB07GuessAWordWithExceptionHandling\bin\Debug\LAB07GuessAWordWithExceptionHandling.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\11\11ExceptionHandling\LAB07GuessAWordWithExceptionHandling\bin\Debug\LAB07GuessAWordWithExceptionHandling.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\11\11ExceptionHandling\LAB07GuessAWordWithExceptionHandling\bin\Debug\LAB07GuessAWordWithExceptionHandling.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\11\11ExceptionHandling\LAB07GuessAWordWithExceptionHandling\obj\Debug\LAB07GuessAWordWithExceptionHandling.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\11\11ExceptionHandling\LAB07GuessAWordWithExceptionHandling\obj\Debug\LAB07GuessAWordWithExceptionHandling.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\11\11ExceptionHandling\LAB07GuessAWordWithExceptionHandling\obj\Debug\LAB07GuessAWordWithExceptionHandling.pdb

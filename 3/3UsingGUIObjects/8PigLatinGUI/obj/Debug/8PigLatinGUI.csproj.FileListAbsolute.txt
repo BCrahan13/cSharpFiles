@@ -1,0 +1,8 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\3\3UsingGUIObjects\8PigLatinGUI\bin\Debug\8PigLatinGUI.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\3\3UsingGUIObjects\8PigLatinGUI\bin\Debug\8PigLatinGUI.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\3\3UsingGUIObjects\8PigLatinGUI\bin\Debug\8PigLatinGUI.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\3\3UsingGUIObjects\8PigLatinGUI\obj\Debug\_8PigLatinGUI.PigLatinForm.resources
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\3\3UsingGUIObjects\8PigLatinGUI\obj\Debug\_8PigLatinGUI.Properties.Resources.resources
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\3\3UsingGUIObjects\8PigLatinGUI\obj\Debug\8PigLatinGUI.csproj.GenerateResource.Cache
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\3\3UsingGUIObjects\8PigLatinGUI\obj\Debug\8PigLatinGUI.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\3\3UsingGUIObjects\8PigLatinGUI\obj\Debug\8PigLatinGUI.pdb

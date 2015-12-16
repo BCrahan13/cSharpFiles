@@ -1,0 +1,5 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\8\8AdvancedMethodConcepts\LAB1AReverse3\bin\Debug\LAB1AReverse3.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\8\8AdvancedMethodConcepts\LAB1AReverse3\bin\Debug\LAB1AReverse3.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\8\8AdvancedMethodConcepts\LAB1AReverse3\bin\Debug\LAB1AReverse3.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\8\8AdvancedMethodConcepts\LAB1AReverse3\obj\Debug\LAB1AReverse3.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\8\8AdvancedMethodConcepts\LAB1AReverse3\obj\Debug\LAB1AReverse3.pdb

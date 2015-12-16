@@ -1,0 +1,6 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\9\9UsingClassesandObjects\LAB02TestClassifiedAd\bin\Debug\LAB02TestClassifiedAd.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\9\9UsingClassesandObjects\LAB02TestClassifiedAd\bin\Debug\LAB02TestClassifiedAd.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\9\9UsingClassesandObjects\LAB02TestClassifiedAd\bin\Debug\LAB02TestClassifiedAd.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\9\9UsingClassesandObjects\LAB02TestClassifiedAd\obj\Debug\LAB02TestClassifiedAd.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\9\9UsingClassesandObjects\LAB02TestClassifiedAd\obj\Debug\LAB02TestClassifiedAd.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\9\9UsingClassesandObjects\LAB02TestClassifiedAd\obj\Debug\LAB02TestClassifiedAd.pdb

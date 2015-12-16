@@ -1,0 +1,9 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\4\4MakingDecisions\1CheckCredit\bin\Debug\1CheckCredit.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\4\4MakingDecisions\1CheckCredit\bin\Debug\1CheckCredit.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\4\4MakingDecisions\1CheckCredit\bin\Debug\1CheckCredit.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\4\4MakingDecisions\1CheckCredit\obj\Debug\1CheckCredit.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\4\4MakingDecisions\1CheckCredit\obj\Debug\_1CheckCredit.CheckCreditForm.resources
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\4\4MakingDecisions\1CheckCredit\obj\Debug\_1CheckCredit.Properties.Resources.resources
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\4\4MakingDecisions\1CheckCredit\obj\Debug\1CheckCredit.csproj.GenerateResource.Cache
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\4\4MakingDecisions\1CheckCredit\obj\Debug\1CheckCredit.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\4\4MakingDecisions\1CheckCredit\obj\Debug\1CheckCredit.pdb

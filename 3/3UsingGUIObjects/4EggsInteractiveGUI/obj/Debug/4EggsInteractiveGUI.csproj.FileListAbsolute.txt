@@ -1,0 +1,9 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\3\3UsingGUIObjects\4EggsInteractiveGUI\bin\Debug\4EggsInteractiveGUI.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\3\3UsingGUIObjects\4EggsInteractiveGUI\bin\Debug\4EggsInteractiveGUI.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\3\3UsingGUIObjects\4EggsInteractiveGUI\bin\Debug\4EggsInteractiveGUI.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\3\3UsingGUIObjects\4EggsInteractiveGUI\obj\Debug\4EggsInteractiveGUI.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\3\3UsingGUIObjects\4EggsInteractiveGUI\obj\Debug\_4EggsInteractiveGUI.EggsInteractiveForm.resources
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\3\3UsingGUIObjects\4EggsInteractiveGUI\obj\Debug\_4EggsInteractiveGUI.Properties.Resources.resources
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\3\3UsingGUIObjects\4EggsInteractiveGUI\obj\Debug\4EggsInteractiveGUI.csproj.GenerateResource.Cache
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\3\3UsingGUIObjects\4EggsInteractiveGUI\obj\Debug\4EggsInteractiveGUI.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\3\3UsingGUIObjects\4EggsInteractiveGUI\obj\Debug\4EggsInteractiveGUI.pdb

@@ -1,0 +1,9 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\3\3UsingGUIObjects\1MilesToKiloGUI\bin\Debug\1MilesToKiloGUI.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\3\3UsingGUIObjects\1MilesToKiloGUI\bin\Debug\1MilesToKiloGUI.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\3\3UsingGUIObjects\1MilesToKiloGUI\bin\Debug\1MilesToKiloGUI.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\3\3UsingGUIObjects\1MilesToKiloGUI\obj\Debug\1MilesToKiloGUI.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\3\3UsingGUIObjects\1MilesToKiloGUI\obj\Debug\_1MilesToKiloGUI.Form1.resources
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\3\3UsingGUIObjects\1MilesToKiloGUI\obj\Debug\_1MilesToKiloGUI.Properties.Resources.resources
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\3\3UsingGUIObjects\1MilesToKiloGUI\obj\Debug\1MilesToKiloGUI.csproj.GenerateResource.Cache
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\3\3UsingGUIObjects\1MilesToKiloGUI\obj\Debug\1MilesToKiloGUI.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\3\3UsingGUIObjects\1MilesToKiloGUI\obj\Debug\1MilesToKiloGUI.pdb

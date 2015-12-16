@@ -1,0 +1,5 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\1\1\GreenvilleMotto2\bin\Debug\GreenvilleMotto2.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\1\1\GreenvilleMotto2\bin\Debug\GreenvilleMotto2.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\1\1\GreenvilleMotto2\bin\Debug\GreenvilleMotto2.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\1\1\GreenvilleMotto2\obj\Debug\GreenvilleMotto2.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\1\1\GreenvilleMotto2\obj\Debug\GreenvilleMotto2.pdb

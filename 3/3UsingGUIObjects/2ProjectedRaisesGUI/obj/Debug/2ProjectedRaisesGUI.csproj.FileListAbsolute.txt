@@ -1,0 +1,9 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\3\3UsingGUIObjects\2ProjectedRaisesGUI\bin\Debug\2ProjectedRaisesGUI.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\3\3UsingGUIObjects\2ProjectedRaisesGUI\bin\Debug\2ProjectedRaisesGUI.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\3\3UsingGUIObjects\2ProjectedRaisesGUI\bin\Debug\2ProjectedRaisesGUI.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\3\3UsingGUIObjects\2ProjectedRaisesGUI\obj\Debug\2ProjectedRaisesGUI.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\3\3UsingGUIObjects\2ProjectedRaisesGUI\obj\Debug\_2ProjectedRaisesGUI.ProjectedRaisesForm.resources
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\3\3UsingGUIObjects\2ProjectedRaisesGUI\obj\Debug\_2ProjectedRaisesGUI.Properties.Resources.resources
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\3\3UsingGUIObjects\2ProjectedRaisesGUI\obj\Debug\2ProjectedRaisesGUI.csproj.GenerateResource.Cache
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\3\3UsingGUIObjects\2ProjectedRaisesGUI\obj\Debug\2ProjectedRaisesGUI.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\3\3UsingGUIObjects\2ProjectedRaisesGUI\obj\Debug\2ProjectedRaisesGUI.pdb

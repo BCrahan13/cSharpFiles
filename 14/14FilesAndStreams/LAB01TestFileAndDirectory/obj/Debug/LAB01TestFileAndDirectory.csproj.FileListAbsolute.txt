@@ -1,0 +1,6 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\14\14FilesAndStreams\LAB01TestFileAndDirectory\bin\Debug\LAB01TestFileAndDirectory.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\14\14FilesAndStreams\LAB01TestFileAndDirectory\bin\Debug\LAB01TestFileAndDirectory.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\14\14FilesAndStreams\LAB01TestFileAndDirectory\bin\Debug\LAB01TestFileAndDirectory.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\14\14FilesAndStreams\LAB01TestFileAndDirectory\obj\Debug\LAB01TestFileAndDirectory.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\14\14FilesAndStreams\LAB01TestFileAndDirectory\obj\Debug\LAB01TestFileAndDirectory.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\14\14FilesAndStreams\LAB01TestFileAndDirectory\obj\Debug\LAB01TestFileAndDirectory.pdb

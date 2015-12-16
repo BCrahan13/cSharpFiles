@@ -1,0 +1,9 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\3\3UsingGUIObjects\YDI1HelloVisualWorld\bin\Debug\YDI1HelloVisualWorld.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\3\3UsingGUIObjects\YDI1HelloVisualWorld\bin\Debug\YDI1HelloVisualWorld.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\3\3UsingGUIObjects\YDI1HelloVisualWorld\bin\Debug\YDI1HelloVisualWorld.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\3\3UsingGUIObjects\YDI1HelloVisualWorld\obj\Debug\YDI1HelloVisualWorld.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\3\3UsingGUIObjects\YDI1HelloVisualWorld\obj\Debug\YDI1HelloVisualWorld.HelloForm.resources
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\3\3UsingGUIObjects\YDI1HelloVisualWorld\obj\Debug\YDI1HelloVisualWorld.Properties.Resources.resources
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\3\3UsingGUIObjects\YDI1HelloVisualWorld\obj\Debug\YDI1HelloVisualWorld.csproj.GenerateResource.Cache
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\3\3UsingGUIObjects\YDI1HelloVisualWorld\obj\Debug\YDI1HelloVisualWorld.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\3\3UsingGUIObjects\YDI1HelloVisualWorld\obj\Debug\YDI1HelloVisualWorld.pdb

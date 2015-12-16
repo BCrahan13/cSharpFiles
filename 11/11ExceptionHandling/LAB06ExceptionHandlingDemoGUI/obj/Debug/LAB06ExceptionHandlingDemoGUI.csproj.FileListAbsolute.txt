@@ -1,0 +1,9 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\11\11ExceptionHandling\LAB06ExceptionHandlingDemoGUI\bin\Debug\LAB06ExceptionHandlingDemoGUI.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\11\11ExceptionHandling\LAB06ExceptionHandlingDemoGUI\bin\Debug\LAB06ExceptionHandlingDemoGUI.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\11\11ExceptionHandling\LAB06ExceptionHandlingDemoGUI\bin\Debug\LAB06ExceptionHandlingDemoGUI.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\11\11ExceptionHandling\LAB06ExceptionHandlingDemoGUI\obj\Debug\LAB06ExceptionHandlingDemoGUI.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\11\11ExceptionHandling\LAB06ExceptionHandlingDemoGUI\obj\Debug\LAB06ExceptionHandlingDemoGUI.ExceptionHandlingForm.resources
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\11\11ExceptionHandling\LAB06ExceptionHandlingDemoGUI\obj\Debug\LAB06ExceptionHandlingDemoGUI.Properties.Resources.resources
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\11\11ExceptionHandling\LAB06ExceptionHandlingDemoGUI\obj\Debug\LAB06ExceptionHandlingDemoGUI.csproj.GenerateResource.Cache
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\11\11ExceptionHandling\LAB06ExceptionHandlingDemoGUI\obj\Debug\LAB06ExceptionHandlingDemoGUI.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\11\11ExceptionHandling\LAB06ExceptionHandlingDemoGUI\obj\Debug\LAB06ExceptionHandlingDemoGUI.pdb

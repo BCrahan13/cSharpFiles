@@ -1,0 +1,5 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\HOT4\HOT4\HOT4_3Credit\bin\Debug\HOT4_3Credit.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\HOT4\HOT4\HOT4_3Credit\bin\Debug\HOT4_3Credit.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\HOT4\HOT4\HOT4_3Credit\bin\Debug\HOT4_3Credit.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\HOT4\HOT4\HOT4_3Credit\obj\Debug\HOT4_3Credit.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\HOT4\HOT4\HOT4_3Credit\obj\Debug\HOT4_3Credit.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\8\8AdvancedMethodConcepts\LAB3FoodOrder\bin\Debug\LAB3FoodOrder.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\8\8AdvancedMethodConcepts\LAB3FoodOrder\bin\Debug\LAB3FoodOrder.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\8\8AdvancedMethodConcepts\LAB3FoodOrder\bin\Debug\LAB3FoodOrder.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\8\8AdvancedMethodConcepts\LAB3FoodOrder\obj\Debug\LAB3FoodOrder.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\8\8AdvancedMethodConcepts\LAB3FoodOrder\obj\Debug\LAB3FoodOrder.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\8\8AdvancedMethodConcepts\LAB3FoodOrder\obj\Debug\LAB3FoodOrder.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\20PigLatin\bin\Debug\20PigLatin.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\20PigLatin\bin\Debug\20PigLatin.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\20PigLatin\bin\Debug\20PigLatin.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\20PigLatin\obj\Debug\20PigLatin.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\20PigLatin\obj\Debug\20PigLatin.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\2\2UsingData\20PigLatin\obj\Debug\20PigLatin.pdb

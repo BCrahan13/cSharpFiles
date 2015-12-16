@@ -1,0 +1,6 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\HOT6\HOT6\HOT2Employee\bin\Debug\HOT2Employee.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\HOT6\HOT6\HOT2Employee\bin\Debug\HOT2Employee.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\HOT6\HOT6\HOT2Employee\bin\Debug\HOT2Employee.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\HOT6\HOT6\HOT2Employee\obj\Debug\HOT2Employee.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\HOT6\HOT6\HOT2Employee\obj\Debug\HOT2Employee.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\HOT6\HOT6\HOT2Employee\obj\Debug\HOT2Employee.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\9\9UsingClassesandObjects\LAB01TestHockeyPlayer\bin\Debug\LAB01TestHockeyPlayer.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\9\9UsingClassesandObjects\LAB01TestHockeyPlayer\obj\Debug\LAB01TestHockeyPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\9\9UsingClassesandObjects\LAB01TestHockeyPlayer\bin\Debug\LAB01TestHockeyPlayer.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\9\9UsingClassesandObjects\LAB01TestHockeyPlayer\bin\Debug\LAB01TestHockeyPlayer.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\9\9UsingClassesandObjects\LAB01TestHockeyPlayer\obj\Debug\LAB01TestHockeyPlayer.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\9\9UsingClassesandObjects\LAB01TestHockeyPlayer\obj\Debug\LAB01TestHockeyPlayer.pdb

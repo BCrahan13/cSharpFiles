@@ -1,0 +1,6 @@
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\10\10IntroductionToInheritance\LAB02PhotoDemo\bin\Debug\LAB02PhotoDemo.exe.config
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\10\10IntroductionToInheritance\LAB02PhotoDemo\bin\Debug\LAB02PhotoDemo.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\10\10IntroductionToInheritance\LAB02PhotoDemo\bin\Debug\LAB02PhotoDemo.pdb
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\10\10IntroductionToInheritance\LAB02PhotoDemo\obj\Debug\LAB02PhotoDemo.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\10\10IntroductionToInheritance\LAB02PhotoDemo\obj\Debug\LAB02PhotoDemo.exe
+C:\Users\Ben\Documents\1\Ranken\Fall 2015\C#\10\10IntroductionToInheritance\LAB02PhotoDemo\obj\Debug\LAB02PhotoDemo.pdb
